@@ -3,7 +3,7 @@ from adb_shell.adb_device import AdbDeviceTcp
 from adb_shell.auth.sign_pythonrsa import PythonRSASigner
 
 # Replace with your Fire TV's IP address and port
-FIRE_TV_IP = "192.168.68.105"  # Change this to your TV's IP address
+FIRE_TV_IP = "192.100.10.100"  # Change this to your TV's IP address
 FIRE_TV_PORT = 5555            #Default port number
 
 # Path to your private key for ADB authentication
