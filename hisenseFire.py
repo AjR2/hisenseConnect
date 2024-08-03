@@ -4,7 +4,7 @@ from adb_shell.auth.sign_pythonrsa import PythonRSASigner
 
 # Replace with your Fire TV's IP address and port
 FIRE_TV_IP = "{"IP")  # Change this to your TV's IP address
-FIRE_TV_PORT = {"port}            #Default port number
+FIRE_TV_PORT = {"port"}            #Default port number
 
 # Path to your private key for ADB authentication
 PRIVATE_KEY_PATH = "/Users/ajrudd/.android/adbkey"  # Change this to your adbkey file path
